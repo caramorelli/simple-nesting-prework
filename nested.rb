@@ -84,6 +84,7 @@ def adding_matz
       :known_for => "Ruby",
       :languages => ["LISP, C"]
      }
+     puts programmer_hash
      
     
 end
@@ -128,3 +129,5 @@ def adding_to_dennis
      }
 
 end
+
+adding_matz
